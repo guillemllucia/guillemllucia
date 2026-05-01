@@ -1,19 +1,24 @@
-### Hi, I'm Guillem 👋
-
-### About me
-
-I'm a `["Data Scientist", "AI Engineer", "Machine Learning Engineer"]` based in Barcelona.
-
-Previously I have been a start-up founder for a fleet management application and a project manager in the automotive industry. I understand the burden of doing things manually. My experience has taught me the impact that AI can make by increasing automation and improving data-driven decision-making. I transitioned into AI/ML/Data Science to be able to contribute to these new solutions.
-
-> [!TIP] 
-> "Guillem" is pronounced like "ghee-YEM"
-
-### Previously
-
-- Former Founder at Avantime, Technical Project Manager at InTech Automatizacion & Montajes, Technical Project Manager at American Parts & Cars Dealers.
-- More on my [resume](https://docs.google.com/document/d/1gPHQUjOZ9EYuc11swrnGZDcAK3bcu3Rca0HUdtLMap4/edit?tab=t.0). 
-
-### Contact
-
-Say hi on [LinkedIn](https://www.linkedin.com/in/guillemllucia/) or email <guillemllucia@gmail.com>.
+# Hi, I'm Guillem 👋
+ 
+Data and AI engineer based in Barcelona. I build data pipelines, backend APIs, and AI systems, and I care about making them actually useful to the people who rely on them.
+ 
+Most recently at **Katalist** (AI video generation SaaS), where I owned the full stack from BigQuery analytics to FastAPI backend routes to a self-hosted AI assistant integrated with Slack, Linear, Notion, and Intercom.
+ 
+Before that: five years in automotive manufacturing project management, a B2B SaaS I built and sold, and a data science bootcamp at Le Wagon.
+ 
+---
+ 
+### 🛠 What I work with
+ 
+| Area | Tools |
+|---|---|
+| Languages | Python, SQL |
+| Data | BigQuery, PostgreSQL, dbt, Fivetran |
+| Backend | FastAPI, REST APIs, GCP, Cloud Run |
+| AI | LLMs, PydanticAI, RAG, agent orchestration |
+ 
+---
+ 
+### 📬 Get in touch
+ 
+[LinkedIn](https://linkedin.com/in/guillemllucia) &nbsp;&nbsp; [guillemllucia@gmail.com](mailto:guillemllucia@gmail.com)
