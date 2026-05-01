@@ -4,7 +4,7 @@ Data and AI engineer based in Barcelona. I build data pipelines, backend APIs, a
  
 Most recently at **Katalist** (AI video generation SaaS), where I owned the full stack from BigQuery analytics to FastAPI backend routes to a self-hosted AI assistant integrated with Slack, Linear, Notion, and Intercom.
  
-Before that: five years in automotive manufacturing project management, a B2B SaaS I built and sold, and a data science bootcamp at Le Wagon.
+Before that: I spent five years as a technical project manager in automotive manufacturing, running multi-million euro system projects for Volkswagen Group facilities and coordinating cross-functional engineering teams. Before that I built a B2B SaaS for fleet management from scratch, owned the full product and data stack, closed a data integration partnership with a telematics provider, and saw it through to acquisition.
  
 ---
  
